@@ -1,0 +1,19 @@
+production:
+  adapter:  mysql2
+  username: root
+  password: password
+  host:     localhost
+  timezone: SGT
+  reconnect: true
+  database: traccarapp
+  encoding: utf8
+
+development:
+  adapter:  mysql2
+  username: root
+  password: password
+  host:     localhost
+  timezone: SGT
+  reconnect: true
+  database: traccarapp_dev
+  encoding: utf8

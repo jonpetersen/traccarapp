@@ -1,0 +1,13 @@
+current directory: /home/jon/traccarapp/vendor/bundle/ruby/2.5.0/gems/json-2.3.0/ext/json
+/usr/bin/ruby2.5 -r ./siteconf20200122-1582-t99juf.rb extconf.rb
+creating Makefile
+
+current directory: /home/jon/traccarapp/vendor/bundle/ruby/2.5.0/gems/json-2.3.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/jon/traccarapp/vendor/bundle/ruby/2.5.0/gems/json-2.3.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/jon/traccarapp/vendor/bundle/ruby/2.5.0/gems/json-2.3.0/ext/json
+make "DESTDIR=" install

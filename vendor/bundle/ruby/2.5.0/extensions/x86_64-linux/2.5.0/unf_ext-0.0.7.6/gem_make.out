@@ -1,0 +1,16 @@
+current directory: /home/jon/traccarapp/vendor/bundle/ruby/2.5.0/gems/unf_ext-0.0.7.6/ext/unf_ext
+/usr/bin/ruby2.5 -r ./siteconf20200122-1582-1242xcj.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/jon/traccarapp/vendor/bundle/ruby/2.5.0/gems/unf_ext-0.0.7.6/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /home/jon/traccarapp/vendor/bundle/ruby/2.5.0/gems/unf_ext-0.0.7.6/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /home/jon/traccarapp/vendor/bundle/ruby/2.5.0/gems/unf_ext-0.0.7.6/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20200122-1582-17e4ehh
