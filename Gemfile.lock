@@ -39,7 +39,7 @@ GEM
     netrc (0.11.0)
     pony (1.13.1)
       mail (>= 2.0)
-    rack (2.1.1)
+    rack (2.2.3)
     rack-protection (2.0.8.1)
       rack
     redis (4.1.3)
